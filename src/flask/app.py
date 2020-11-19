@@ -158,6 +158,7 @@ class Flask(Scaffold):
         automatically, such as for namespace packages.
     """
 
+    # HI
     #: The class that is used for request objects.  See :class:`~flask.Request`
     #: for more information.
     request_class = Request
